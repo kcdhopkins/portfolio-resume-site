@@ -49,7 +49,7 @@ export default {
             "icon": "/typescript.svg"
         },
         {
-            "name": "GraphQL/Apollo",
+            "name": "GraphQL",
             "icon": "/graphql.png"
         },
         {
@@ -78,23 +78,23 @@ export default {
         },
         {
             "name": "CicrleCI",
-            "icon": "/docker.svg"
+            "icon": "/circleci.png"
         },
         {
             "name": "Jenkins",
-            "icon": "/docker.svg"
+            "icon": "/jenkin.png"
         },
         {
             "name": "GCP - Google",
-            "icon": "/docker.svg"
+            "icon": "/gcp.png"
         },
         {
             "name": "Git",
-            "icon": "/docker.svg"
+            "icon": "/github.png"
         },
         {
             "name": "Copilot",
-            "icon": "/docker.svg"
+            "icon": "/copilot.png"
         }
     ]
 }

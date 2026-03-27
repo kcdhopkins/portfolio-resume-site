@@ -20,7 +20,7 @@ export default function Home() {
               <Image src="/github.png" alt="github-img" width={50} height={50} />
             </Link>
             <Link href="https://www.linkedin.com/in/keyairius-hopkins-4b7b984a/" target="_blank">
-              <Image src="/linkedin.svg" alt="linkedin-mg" width={50} height={50} />
+              <Image src="/linked.png" alt="linkedin-mg" width={50} height={50} />
             </Link>
           </div>
         </div>

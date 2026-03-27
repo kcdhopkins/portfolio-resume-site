@@ -15,6 +15,11 @@ export default function Home() {
                     Frontend-focused engineer with extensive experience designing and developing modern web applications using React, TypeScript, and component-driven architectures. Skilled in building scalable front-end systems within monorepo environments, integrating Apollo GraphQL and REST APIs, and implementing robust testing strategies. Strong background working in Agile development environments with experience in Docker, Google Cloud Platform (GCP), and modern CI/CD workflows. Additional experience in full-stack development with Node.js, Java, and SQL-based systems, providing a well-rounded understanding of application architecture and end-to-end software development.
                 </div>
                 <div className="border-b-2 border-black pb-2"></div>
+                <h1 className="text-4xl pt-4 pb-2 font-bold">Education</h1>
+                <div className="text-2xl font-bold">
+                    Bachelor of Science, Computer Science, 2012 - Tougaloo college, Tougaloo, MS 39174
+                </div>
+                <div className="border-b-2 border-black pb-2"></div>
                 <WorkHistory />
             </main>
         </div>
