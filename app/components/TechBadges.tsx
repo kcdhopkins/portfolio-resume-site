@@ -4,7 +4,6 @@ import technologies from "./verbiage/tech";
 const TechBadges: React.FC = () => {
 
     const tech = useMemo(() => {
-        console.log(technologies)
         return technologies.technologies.map(({ name, icon }, index) => {
             return (
                 <div className="bg-white rounded-lg w-40 h-10 mr-2 flex justify-between mb-2" key={`badge-${index}`}>
@@ -16,7 +15,7 @@ const TechBadges: React.FC = () => {
     }, [technologies])
 
     return (
-        <div className="pt-6 columns-6">
+        <div className="pt-6 flex flex-wrap justify-center">
             {tech}
         </div>)
 }
